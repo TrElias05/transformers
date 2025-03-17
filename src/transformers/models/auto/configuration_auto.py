@@ -241,6 +241,7 @@ CONFIG_MAPPING_NAMES = OrderedDict(
         ("roformer", "RoFormerConfig"),
         ("rt_detr", "RTDetrConfig"),
         ("rt_detr_resnet", "RTDetrResNetConfig"),
+        ("rt_detr_v2", "RTDetrV2Config"),
         ("rwkv", "RwkvConfig"),
         ("sam", "SamConfig"),
         ("seamless_m4t", "SeamlessM4TConfig"),
